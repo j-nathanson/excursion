@@ -16,6 +16,12 @@ a {
   font-size: 16px;
 }
 
+main p,
+footer p {
+  color: gray;
+  font-size: 21px;
+}
+
 /* header */
 h1 {
   font-size: 50px;
@@ -28,11 +34,8 @@ h2 {
   font-size: 42px;
 }
 
-main p {
+/* footer */
+footer {
   color: gray;
-  font-size: 21px;
-}
-
-#phone-img {
-  background-color: black;
+  text-align: right;
 }
